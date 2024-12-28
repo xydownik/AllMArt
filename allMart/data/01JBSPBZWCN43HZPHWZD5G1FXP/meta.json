@@ -1,0 +1,17 @@
+{
+	"ulid": "01JBSPBZWCN43HZPHWZD5G1FXP",
+	"minTime": 1730649601020,
+	"maxTime": 1730656800000,
+	"stats": {
+		"numSamples": 1030084,
+		"numSeries": 826,
+		"numChunks": 8517
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01JBSPBZWCN43HZPHWZD5G1FXP"
+		]
+	},
+	"version": 1
+}

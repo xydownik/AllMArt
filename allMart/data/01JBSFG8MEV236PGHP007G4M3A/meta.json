@@ -1,0 +1,17 @@
+{
+	"ulid": "01JBSFG8MEV236PGHP007G4M3A",
+	"minTime": 1730642400000,
+	"maxTime": 1730649600000,
+	"stats": {
+		"numSamples": 755119,
+		"numSeries": 972,
+		"numChunks": 6231
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01JBSFG8MEV236PGHP007G4M3A"
+		]
+	},
+	"version": 1
+}
